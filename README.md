@@ -4,6 +4,11 @@ A full-season Valorant Champions Tour analytics dashboard built with Streamlit a
 Covers **15 events**, **4 regions**, **50+ teams**, and **324 players**.
 
 ---
+# Live Demo
+
+link: https://vct-2025-website.streamlit.app
+
+---
 
 ## Data Source
 Data sourced from ["Valorant 2025 - All Events International + Regional"](https://www.kaggle.com/datasets/piyush86kumar/valorant-vct-2025-all-events)
