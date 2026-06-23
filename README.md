@@ -76,7 +76,7 @@ All tabs respond to three global filters in the sidebar:
 ---
 
 ## Methodology Notes
-A few analytical choices worth knowing about if you're presenting this project:
+A few analytical choices worth knowing about:
 - **Role assignment** uses a 65% dominance threshold on agents played per role (from per-map performance data) — a player below that threshold on any single role is labeled "Flex."
 - **Season arc classification** fits a degree-2 polynomial against calendar dates (not just event order), and reports R² alongside each player's arc type so low-confidence trajectories can be filtered out.
 - **Big Game Hunter** comparisons use rounds-weighted averages, so a player's rating isn't skewed by one short series.
